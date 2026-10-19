@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+.venv/
+.pytest_cache/
+
+# LaTeX (file ausiliari)
+*.aux
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# macOS
+.DS_Store
